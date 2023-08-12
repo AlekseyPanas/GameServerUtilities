@@ -16,7 +16,7 @@ Enjoy :)
 This folder contains a basic python RCON client. The client is built following the protocol as outlined at https://developer.valvesoftware.com/wiki/Source_RCON_Protocol. The script was written with the intention to use it 
 for an ARK server, however it should work for any game that supports the linked protocol (such as Rust)
 
-To run the script, simply execute `arkrcon.py` with python >= 3.11. You must provide exactly 3 arguments in order or `server_ip`, `server_port`, `rcon_password`. The full command
+To run the script, simply execute `arkrcon.py` with python >= 3.11. You must provide exactly 3 arguments in order of `server_ip`, `server_port`, `rcon_password`. The full command
 would look as follows: 
 ```
 python3 ./arkcon.py <server_ip> <server_port> <rcon_password>
