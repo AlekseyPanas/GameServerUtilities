@@ -23,7 +23,7 @@ python3 ./arkcon.py <server_ip> <server_port> <rcon_password>
 ```
 For ARK, the RCON password is your server's admin password.
 
-The script, if opened, includes a docstring at the top of the file with rough steps to set up an ARK server on Linux (I did
+Random side note: The script, if opened, includes a docstring at the top of the file with rough steps to set up an ARK server on Linux (I did
 it on Gentoo specifically, but it should be very similar on other distros)
 
 This python script should work across platforms since it uses only standard python libraries and nothing platform-specific. 
