@@ -1,7 +1,5 @@
 """
-ARK Server setup on Gentoo:
-
-Steps:
+Steps to setup ARK server on Gentoo Linux:
 - Install Gentoo
 - Setup steamcmd according to https://wiki.gentoo.org/wiki/Steamcmd
 - Follow steps to set up and download ARK server files according to https://ark.wiki.gg/wiki/Dedicated_server_setup
